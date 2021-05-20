@@ -1,2 +1,4 @@
-- [x] chooseAction in Player.java
-- [ ] targetArrayBoss in Player.java
+- [ ] 素早さ順に行動する
+- [ ] Bossが攻撃を行う
+
+
