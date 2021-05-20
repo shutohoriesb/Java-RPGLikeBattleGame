@@ -1,2 +1,2 @@
-[ ] choosedAction in Player.java
-[ ] targetArrayBoss in Player.java
+- [x] chooseAction in Player.java
+- [ ] targetArrayBoss in Player.java
